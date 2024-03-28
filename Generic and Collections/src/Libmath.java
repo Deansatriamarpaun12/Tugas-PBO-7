@@ -16,6 +16,6 @@ public class Libmath<A extends Number, B extends Number> {
         return angka1.doubleValue() + angka2.doubleValue();
     }
 
-    public double add() {
+    public double add2() {
         return angka1.doubleValue() + angka2.doubleValue();
 }
